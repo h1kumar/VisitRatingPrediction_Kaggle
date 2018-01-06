@@ -56,7 +56,6 @@ for u in Bitems:
     Bitems[u].append(len(rating_sum))
     Bitems[u].append(usr_id)
     
-print "Done"
 
 
 ########## Implementing Latent Factor Model #############
